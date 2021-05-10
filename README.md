@@ -1,6 +1,6 @@
 # GRIP_Task2_ColorDetection
 
-Function - IoT
+Function - Computer vision & IoT
 
 Project - Color Identification using OpenCV
 
